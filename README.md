@@ -81,4 +81,7 @@ We provide three processed datasets:  Yelp(yelp), MovieLens 1 Million (ml-1m) an
 
 *PS. In our experiments, we adopt the **all ranking** evaluation strategy. But we still provide the dataloader function for **negative sampling** evaluation in Dataset.py for people who are interested in it.*
 
-Update: May 7, 2018
+## Acknowledgement
+This research is supported by the National Research Foundation, Singapore under its International Research Centres in Singapore Funding Initiative. Any opinions, findings and conclusions or recommendations expressed in this material are those of the author(s) and do not reflect the views of National Research Foundation, Singapore.
+
+Update: May 28, 2020
